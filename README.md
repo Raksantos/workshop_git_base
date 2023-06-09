@@ -1,2 +1,3 @@
-# workshop_git_base
+# Workshop Git
+
 Repositório base para o workshop de Git
